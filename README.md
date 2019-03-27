@@ -1,10 +1,14 @@
-# QuickBooks for Communards - Halogen Prototype
+# MOVED TO https://github.com/prikhi/quickbooks-for-communes
+
+## QuickBooks for Communards - Halogen Prototype
+
+**Note: This trial has been merged into the main repository: https://github.com/prikhi/quickbooks-for-communes**
 
 This is a test frontend for our QuickBooks for Communes server written in
 Purescript/Halogen.
 
 
-## Build
+### Build
 
 To build the Purescript app:
 
@@ -33,6 +37,6 @@ npx parcel build index.html
 ```
 
 
-## License
+### License
 
 GPL-3.0
